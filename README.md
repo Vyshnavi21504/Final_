@@ -1,3 +1,4 @@
+## OUTPUT AND VERCEL LINK
 OUTPUT:
 <img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/e01304f1-6e4c-4460-a376-6dee7aad327d" />
 <img width="1919" height="1079" alt="Screenshot 2025-08-29 105440" src="https://github.com/user-attachments/assets/5e02a346-04b8-41b1-ae46-b15561e4905b" />
